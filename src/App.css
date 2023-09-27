@@ -1,0 +1,4 @@
+.parent:hover .child{
+  transition:0.4s all ;
+  top: 0;
+}
